@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NekoWA2000
 - 👀 I’m interested in PC Mods rig
-- 🌱 I’m currently learning English,overclocker,code
+- 🌱 I’m currently learning English,overclock,code
 - 💞️ I’m looking to collaborate on : None
 - 📫 How to reach me : Twitter
 
