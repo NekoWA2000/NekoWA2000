@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NekoWA2000
-- 👀 I’m interested in PC Mods rig
-- 🌱 I’m currently learning English,overclock,code
+- 👋 Hi, I’m Chirs
+- 👀 I’m interested in image processing
+- 🌱 I’m currently learning English,code and 3d modeling
 - 💞️ I’m looking to collaborate on : None
-- 📫 How to reach me : Twitter
+- 📫 How to reach me : @aanytf on Discord
 
 <!---
 NekoWA2000/NekoWA2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
